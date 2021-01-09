@@ -1,0 +1,18 @@
+{
+  "name": "star_wanghuiao",
+  "version": "2.0.1",
+  "description": "历史上的今天",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mycli-wha": "./commander.js"
+  },
+  "repository":"https://gitee.com/wang-huiao/my_ware/tree/star_wanghuiao/",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
